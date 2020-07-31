@@ -26,5 +26,37 @@
 }
 .content{
   margin-top: 40px;
-  margin-bottom: 10px;
+  margin-bottom: 30px;
+}
+.cyancard{
+  border-top: 4px solid hsl(180, 62%, 55%);
+  border-radius: 4px;
+  box-shadow: 3px 3px 20px grey;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+.bluecard{
+  border-top: 4px solid hsl(212, 86%, 64%);
+  border-radius: 4px;
+  box-shadow: 3px 3px 20px grey;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+.midcard{
+  padding-left: 5px;
+  padding-right: 5px;
+}
+.redcard{
+  border-top: 4px solid hsl(0, 78%, 62%);
+  border-radius: 4px;
+  box-shadow: 3px 3px 20px grey;
+}
+.orangecard{
+  border-top: 4px solid hsl(34, 97%, 64%);
+  border-radius: 4px;
+  box-shadow: 3px 3px 20px grey;
+  margin-top: 70px;
+}
+img{
+  float: right;
 }
