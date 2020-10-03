@@ -38,7 +38,7 @@
 .bluecard{
   border-top: 4px solid hsl(212, 86%, 64%);
   border-radius: 4px;
-  box-shadow: 3px 3px 20px grey;
+  box-shadow: 4px 4px 21px grey;
   padding-left: 5px;
   padding-right: 5px;
 }
@@ -54,7 +54,7 @@
 .orangecard{
   border-top: 4px solid hsl(34, 97%, 64%);
   border-radius: 4px;
-  box-shadow: 3px 3px 20px grey;
+  box-shadow: 4px 4px 21px grey;
   margin-top: 70px;
 }
 img{
